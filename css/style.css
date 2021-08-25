@@ -1,9 +1,28 @@
 .display{
-    
+    background: burlywood;
+    height: 300px;
 }
 header {
     background: rgb(12, 10, 104);
     padding: 4px;
     color: white;
     text-align: center;
+}
+.logo{
+    
+}
+.section {
+    background: rgb(240, 252, 249);
+    padding: 2px;
+}
+.target{
+    border-radius: 10px;
+    background: rgb(113, 156, 236);
+    padding: 15px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+footer{
+    background: black;
 }
