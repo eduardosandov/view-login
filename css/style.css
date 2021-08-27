@@ -32,6 +32,9 @@ body{
     background: var(--fondo-wrapper);
     color: var(--text);
 }
+.aside .container-aside button{
+    margin: 0.1px auto;
+}
 
 .container{
     background: var(--gris);
