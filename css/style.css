@@ -1,11 +1,16 @@
 :root{
-    --body:#c5c9e9;
+    --body:#fcfcfc;
     --fondo-wrapper: #04001E;
     --text:white;
     --gris: rgb(228, 228, 228);
 }
 body{
     background: var(--body);
+}
+.container-wrapper {
+    background: #54595F;
+    margin: 0 auto;
+    max-width: 1280px;
 }
 .wrapper{
     width: 60%;
